@@ -13,6 +13,7 @@ dependencies:
   - pip:
     - montreal-forced-aligner==2.0.0b3
     - scipy
+    - scikit-image
     - matplotlib
     - librosa==0.8.0
     - torch
@@ -36,3 +37,4 @@ dependencies:
     - chardet
     - h5py
     - transformers
+    - numpy==1.21
